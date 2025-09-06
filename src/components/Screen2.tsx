@@ -149,7 +149,7 @@ const Screen2: React.FC<Screen2Props> = ({ setScreen }) => {
             <select id="pension" value={formData.pension} onChange={(e) => handleChange('pension', e.target.value)}>
                 <option value="" disabled>Выберите</option>
                 <option value="yes">Да</option>
-                <option value="no">Нет</option>
+                <option value="no">Yes</option>
             </select>
         </div>
         <div>
