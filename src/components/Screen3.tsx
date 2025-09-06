@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Screen3 = () => {
   return (
     <div style={{ maxWidth: '500px', margin: '0 auto' }}>
